@@ -1,7 +1,7 @@
 # Reloj digital
 ## Inpiracion del proyecto & objetivo
 
--  el objetivo del proyecto es aprender a modificar el doom con javascript y poder poner un reloj que te muestre tanto la hora como la fecha  y el dia actual.
+-  el objetivo del proyecto es aprender a modificar el doom con JavaScript y poder poner un reloj que te muestre tanto la hora como la fecha  y el día actual.
 
 El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
 
@@ -30,7 +30,7 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 | -------------------------- | :----------------: | 
 |            Web responsive  |      ❌        |
 |           Hosting          |    Github|
-| Websever app online        |         ❌    |  
+| Websever app online        |         ✔️    |  
 | Dispone de trello          |         ❌    |  
 <details >
 <summary>⚙️Progreso del proyecto⚙️</summary>
