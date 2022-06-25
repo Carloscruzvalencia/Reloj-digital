@@ -28,7 +28,7 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 ## Estado del proyecto
 |Trabajando en el proyecto|✔️| 
 | -------------------------- | :----------------: | 
-|            Web responsive  |      ❌        |
+|            Web responsive  |      ✔️       |
 |           Hosting          |    Github|
 | Websever app online        |         ✔️    |  
 | Dispone de trello          |         ❌    |  
@@ -39,6 +39,11 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
     ![](pr-project/project-preview.png)
 
 2. Se añade el fondo a la web con un background image
+    ![](pr-project/1.png)
+3. Se añade el reloj a la web
+    ![](pr-project/2.png)
+4. Se crea el javascript para el reloj
+    ![](pr-project/3.gif)
 </details>
 
 

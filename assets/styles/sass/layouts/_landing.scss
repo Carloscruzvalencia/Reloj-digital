@@ -1,4 +1,4 @@
-main{
+main {
     width: 100vw;
     height: 100vh;
     background-image: url(../../media/img/fondos/main-bk.png);
@@ -6,14 +6,14 @@ main{
     background-position: center;
     background-repeat: no-repeat;
     display: grid;
-    section{
+    section {
         display: grid;
         grid-template-columns: 1fr 1fr;
         justify-self: center;
         align-self: center;
-        width: 50vw;
-        div{
-            border: 1px solid red;
+        width: auto;
+        border-top: 0.5vw solid;
+        div {
             font-size: 6vw;
             font-family: 'Stick No Bills', sans-serif;
             display: grid;
@@ -21,28 +21,45 @@ main{
             justify-items: center;
             color: black;
             justify-content: center;
-            p{
+
+
+            p {
                 color: black;
-                &:nth-child(2){
+                &:nth-child(2) {
                     color: black;
                     transform: translatey(-0.5vw);
-                    animation: blink 1.2s steps(5, start) infinite;
+                    animation: blink 1s steps(5, start) infinite;
+                }
+                &:nth-child(4) {
+                    color: black;
+                    transform: translatey(-0.5vw);
+                    animation: blink 1s steps(5, start) infinite;
                 }
             }
+
             @keyframes blink {
-                to{
+                to {
                     visibility: hidden;
                 }
             }
-            &:nth-child(1){
+
+            &:nth-child(1) {
                 background-color: rgba(69, 177, 201, 0.81);
+                p{
+                    letter-spacing: 0.5vw;
+                }
             }
-            &:nth-child(2){
+
+            &:nth-child(2) {
                 font-size: 7vw;
                 display: grid;
-                grid-template-columns: 6vw 1vw 7vw;
+                width: 30vw;
+                grid-template-columns: 8vw 2vw 8vw 2vw 8vw;
                 background-color: rgba(217,217,217,.81);
             }
+            
         }
+
     }
 }
+
