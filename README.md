@@ -1,4 +1,4 @@
-# Titulo del proyecto
+# Reloj digital
 ## Inpiracion del proyecto & objetivo
 
 -  el objetivo del proyecto es aprender a modificar el doom con javascript y poder poner un reloj que te muestre tanto la hora como la fecha  y el dia actual.
