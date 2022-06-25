@@ -35,9 +35,10 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 <details >
 <summary>⚙️Progreso del proyecto⚙️</summary>
 
-1. Creacion de la pagina web
-    ![]()
+1. Creacion del diseño de la pagina web en ``figma``
+    ![](pr-project/project-preview.png)
 
+2. Se añade el fondo a la web con un background image
 </details>
 
 
@@ -53,5 +54,5 @@ git add -A && git commit -a -m \"update\" && git push
 
 ## sass compiler code
 ```shell
-sass -w --style compressed static/styles/sass/main.scss static/styles/css/main.css
+sass -w --style compressed assets/styles/sass/main.scss assets/styles/css/main.css
 ``` -->
