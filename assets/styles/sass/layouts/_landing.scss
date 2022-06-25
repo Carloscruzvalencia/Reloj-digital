@@ -24,8 +24,14 @@ main{
             p{
                 color: black;
                 &:nth-child(2){
-                    color: purple;
+                    color: black;
                     transform: translatey(-0.5vw);
+                    animation: blink 1.2s steps(5, start) infinite;
+                }
+            }
+            @keyframes blink {
+                to{
+                    visibility: hidden;
                 }
             }
             &:nth-child(1){
