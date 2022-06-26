@@ -16,7 +16,6 @@ function navoutput() {
     document.getElementById("hora").innerHTML = fhora;
     document.getElementById("minutos").innerHTML = fminutos;
     document.getElementById("segundos").innerHTML = fsegundos;
-    console.log("n")
 }
 
 setInterval("navoutput()", 1000);
