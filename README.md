@@ -32,7 +32,7 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 |proyecto terminado|✔️| 
 | -------------------------- | :----------------: | 
 |            Web responsive  |      ✔️       |
-|           Hosting          |    Github|
+|           Hosting          | Github-pages|
 | Websever app online        |         ✔️    |  
 | Dispone de trello          |         ❌    |  
 <details >
