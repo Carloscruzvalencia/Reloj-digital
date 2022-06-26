@@ -44,6 +44,13 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
     ![](pr-project/2.png)
 4. Se crea el javascript para el reloj
     ![](pr-project/3.gif)
+5. Se añade un saludo al usuario y el fondo cambia segun la hora del dia aparte de dos botones para cambiar entre 24H y 12H y el idioma de la pagina
+    ![](pr-project/3.png)
+    ![](pr-project/4.png)
+    ![](pr-project/5.png)
+6. Se crea el javascript para los botones de cambio de hora y idioma
+    ![](pr-project/6.gif)
+
 </details>
 
 

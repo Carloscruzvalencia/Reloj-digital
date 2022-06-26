@@ -1,11 +1,14 @@
-// body{
-//     margin: 0;
-//     overflow-y: hidden;
-//     overflow-x: hidden;
-// }
-// ::-webkit-scrollbar{
-//     display: none;
-// }
+body{
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+::-webkit-scrollbar{
+    display: none;
+}
 * {
     list-style-type: none;
     margin-block-start: 0em;
