@@ -18,7 +18,7 @@ function changeLanguage() {
         document.getElementById("language").innerHTML = "Spanish";
     } else {
         language = 0
-        document.getElementById("language").innerHTML = "Iingles";
+        document.getElementById("language").innerHTML = "Ingles";
     }
 }
 

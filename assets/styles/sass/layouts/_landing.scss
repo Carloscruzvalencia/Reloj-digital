@@ -103,3 +103,34 @@ main {
         }
     }
 }
+@media screen and (max-width: 768px) {
+    *{
+        transition:none !important;
+    }
+    main{
+        section:nth-child(1){
+            transform: scale(1.5) translateY(-20vh);
+            height: 10vh;
+            border-top: 1vw solid;
+        }
+        section:nth-child(2){
+            transform: scale(1.5) translateY(5vh);
+            p{
+                font-size: 8.5vw;
+            }
+            button{
+                width: 20vw;
+                height: 10vw;
+                font-size: 4vw;
+                color: black !important;
+                background-color: white !important;
+                transform: none;
+
+            }
+            button:nth-child(2){
+                margin-left: 3vw;
+            }
+        }
+    }
+    
+}
