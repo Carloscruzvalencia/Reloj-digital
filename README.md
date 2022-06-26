@@ -26,7 +26,7 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 <img src="pr-project/project-preview.png" aling="center"></img>
 <!-- <img src="project-preview.gif" aling="center"></img> -->
 ## Estado del proyecto
-|Trabajando en el proyecto|✔️| 
+|proyecto terminado|✔️| 
 | -------------------------- | :----------------: | 
 |            Web responsive  |      ✔️       |
 |           Hosting          |    Github|
@@ -44,12 +44,14 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
     ![](pr-project/2.png)
 4. Se crea el javascript para el reloj
     ![](pr-project/3.gif)
-5. Se añade un saludo al usuario y el fondo cambia segun la hora del dia aparte de dos botones para cambiar entre 24H y 12H y el idioma de la pagina
+5. Se añade un saludo al usuario y el fondo cambia segun la hora del dia aparte de dos botones para cambiar el formato de hora y el idioma de la pagina
     ![](pr-project/3.png)
     ![](pr-project/4.png)
     ![](pr-project/5.png)
-6. Se crea el javascript para los botones de cambio de hora y idioma
+6. Se crea el javascript para el boton de cambio de formato de hora
     ![](pr-project/6.gif)
+7. Se crea el javascript para el boton de cambio de lenguaje de la pagina
+    ![](pr-project/7.gif)
 
 </details>
 
