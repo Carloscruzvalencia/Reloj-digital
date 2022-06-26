@@ -52,7 +52,7 @@ function navoutput() {
         } else {
             document.getElementById("saludo").innerHTML = "Good morning";
         }
-        document.getElementById("mBackground").style.backgroundImage = "url('/assets/media/img/fondos/morning.png')";
+        document.getElementById("mBackground").style.backgroundImage = "url('../media/img/fondos/morning.png')";
 
     } else if (fhora >= 12 && fhora < 18) {
         if (language == 0) {
@@ -60,14 +60,14 @@ function navoutput() {
         } else {
             document.getElementById("saludo").innerHTML = "Good afternoon";
         }
-        document.getElementById("mBackground").style.backgroundImage = "url('/assets/media/img/fondos/afternoon.png')";
+        document.getElementById("mBackground").style.backgroundImage = "url('../media/img/fondos/afternoon.png')";
     } else {
         if (language == 0) {
             document.getElementById("saludo").innerHTML = "Buenas noches";
         } else {
             document.getElementById("saludo").innerHTML = "Good night";
         }
-        document.getElementById("mBackground").style.backgroundImage = "url('/assets/media/img/fondos/night.png')";
+        document.getElementById("mBackground").style.backgroundImage = "url('../media/img/fondos/night.png')";
     }
 
     // hora actual en formato 12h
