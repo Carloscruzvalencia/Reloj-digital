@@ -26,7 +26,7 @@ El diseño web se a creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kA
 
 ## Vista previa del proyecto
 <!-- `` vista no disponible`` -->
-<img src="pr-project/project-preview.png" aling="center"></img>
+![](pr-project/project-preview.gif)
 <!-- <img src="project-preview.gif" aling="center"></img> -->
 ## Estado del proyecto
 |proyecto terminado|✔️| 
