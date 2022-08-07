@@ -2,7 +2,10 @@
 
 ## Inpiracion del proyecto & objetivo
 
--  change
+- El objetivo del proyecto es aprender a modificar el doom con JavaScript y poder poner un reloj que te muestre tanto la hora como la fecha  y el día actual.
+- Aparte de eso, quiero que se pueda cambiar el formato del reloj de 24h a 12h.
+- Tambien quiero que el fondo cambie dependiendo de la hora del dia mañana,tarde,noche.
+- Tambien quiero que se pueda cambiar el lenguaje del reloj de Español a Ingles.
 
 El diseño web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
 
@@ -37,6 +40,30 @@ lenguajes/frameworks usados
 | Hosting                 |Githubpages|
 | Hosting disponible      |:heavy_check_mark:|  
 | Dispone de trello       |:x:| 
+
+## documentacion del proyecto
+<details >
+<summary>⚙️Documentacion del proyecto⚙️</summary>
+
+1. Creacion del diseño de la pagina web en ``figma``
+    ![](pr-project/project-preview.png)
+
+2. Se añade el fondo a la web con un background image
+    ![](pr-project/1.png)
+3. Se añade el reloj a la web
+    ![](pr-project/2.png)
+4. Se crea el javascript para el reloj
+    ![](pr-project/3.gif)
+5. Se añade un saludo al usuario y el fondo cambia segun la hora del dia aparte de dos botones para cambiar el formato de hora y el idioma de la pagina
+    ![](pr-project/4.png)
+    ![](pr-project/5.png)
+    ![](pr-project/3.png)
+6. Se crea el javascript para el boton de cambio de formato de hora
+    ![](pr-project/6.gif)
+7. Se crea el javascript para el boton de cambio de lenguaje de la pagina
+    ![](pr-project/7.gif)
+
+</details>
 
 ## Vista previa del proyecto
 
